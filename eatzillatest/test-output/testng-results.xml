@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-20T13:24:59 IST" name="Eatzilla Test Suite" finished-at="2025-05-20T13:25:33 IST" duration-ms="33709">
+    <groups>
+    </groups>
+    <test started-at="2025-05-20T13:24:59 IST" name="Eatzilla Full Flow Test" finished-at="2025-05-20T13:25:33 IST" duration-ms="33709">
+      <class name="EatzillaFlowTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:EatzillaFlowTest@29ba4338]" started-at="2025-05-20T13:24:59 IST" name="setup" finished-at="2025-05-20T13:25:01 IST" duration-ms="2299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:1, instance:EatzillaFlowTest@29ba4338]" started-at="2025-05-20T13:25:01 IST" name="loginTest" finished-at="2025-05-20T13:25:08 IST" duration-ms="6426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="goToBrowsePage()[pri:2, instance:EatzillaFlowTest@29ba4338]" started-at="2025-05-20T13:25:08 IST" name="goToBrowsePage" finished-at="2025-05-20T13:25:14 IST" duration-ms="6019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToBrowsePage -->
+        <test-method signature="goToRestaurantsPage()[pri:3, instance:EatzillaFlowTest@29ba4338]" started-at="2025-05-20T13:25:14 IST" name="goToRestaurantsPage" finished-at="2025-05-20T13:25:20 IST" duration-ms="6174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToRestaurantsPage -->
+        <test-method signature="goToRestaurantDetailsPage()[pri:4, instance:EatzillaFlowTest@29ba4338]" started-at="2025-05-20T13:25:20 IST" name="goToRestaurantDetailsPage" finished-at="2025-05-20T13:25:26 IST" duration-ms="6202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToRestaurantDetailsPage -->
+        <test-method signature="navigateToOrdersPage()[pri:5, instance:EatzillaFlowTest@29ba4338]" started-at="2025-05-20T13:25:26 IST" name="navigateToOrdersPage" finished-at="2025-05-20T13:25:32 IST" duration-ms="6170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToOrdersPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:EatzillaFlowTest@29ba4338]" started-at="2025-05-20T13:25:32 IST" name="tearDown" finished-at="2025-05-20T13:25:33 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- EatzillaFlowTest -->
+    </test> <!-- Eatzilla Full Flow Test -->
+  </suite> <!-- Eatzilla Test Suite -->
+</testng-results>
